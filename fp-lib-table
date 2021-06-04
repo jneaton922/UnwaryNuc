@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name UnwaryNuc)(type KiCad)(uri ${KIPRJMOD}/UnwaryNuc.pretty)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri C:/Users/jneat/OneDrive/Documents/Projects/KiCAD/Nucalo/ul_NUC980DF71YC/KiCAD/2020-12-18_02-40-16/footprints.pretty)(options "")(descr ""))
+)

@@ -1,4 +1,4 @@
-update=12/30/2020 6:09:26 PM
+update=5/17/2021 5:38:30 PM
 version=1
 last_client=kicad
 [general]
@@ -16,7 +16,7 @@ LibDir=
 version=1
 PageLayoutDescrFile=
 LastNetListRead=
-CopperLayerCount=6
+CopperLayerCount=4
 BoardThickness=1.6
 AllowMicroVias=0
 AllowBlindVias=0
@@ -76,20 +76,20 @@ Type=2
 Enabled=1
 [pcbnew/Layer.In1.Cu]
 Name=L2_(Plane)
-Type=2
+Type=1
 Enabled=1
 [pcbnew/Layer.In2.Cu]
 Name=L3_(Sig)
-Type=0
-Enabled=1
-[pcbnew/Layer.In3.Cu]
-Name=L4_(Sig)
-Type=0
-Enabled=1
-[pcbnew/Layer.In4.Cu]
-Name=L5_(Plane)
 Type=2
 Enabled=1
+[pcbnew/Layer.In3.Cu]
+Name=In3.Cu
+Type=0
+Enabled=0
+[pcbnew/Layer.In4.Cu]
+Name=In4.Cu
+Type=0
+Enabled=0
 [pcbnew/Layer.In5.Cu]
 Name=In5.Cu
 Type=0
@@ -195,7 +195,7 @@ Name=In30.Cu
 Type=0
 Enabled=0
 [pcbnew/Layer.B.Cu]
-Name=L6_(Bot)
+Name=L4_(Bot)
 Type=2
 Enabled=1
 [pcbnew/Layer.B.Adhes]
