@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name UnwaryNuc)(type Legacy)(uri ${KIPRJMOD}/UnwaryNuc.lib)(options "")(descr ""))
+  (lib (name UnwaryNuc-rescue)(type Legacy)(uri ${KIPRJMOD}/UnwaryNuc-rescue.lib)(options "")(descr ""))
 )
