@@ -5309,4 +5309,11 @@ F 3 "" H 13500 3300 50  0001 C CNN
 	1    11350 6500
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	26050 7550 26100 7550
+Connection ~ 26100 7550
+Text Label 19200 12450 0    50   ~ 0
+USB1_N
+Text Label 19200 12550 0    50   ~ 0
+USB1_P
 $EndSCHEMATC
